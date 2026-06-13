@@ -21,7 +21,7 @@ public class Main {
                     sc.nextLine();
                     System.out.print("Game Name: ");
                     String name = sc.nextLine();
-                    System.out.print("Game: ");
+                    System.out.print("Game Name: ");
                     String game = sc.nextLine();
                     System.out.print("Rank: ");
                     int rank = sc.nextInt();
