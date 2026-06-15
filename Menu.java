@@ -8,6 +8,7 @@ public class Menu {
         System.out.println("4.View Match History");
         System.out.println("5.Remove Player     ");
         System.out.println("6.Exit              ");
+        System.out.println("");
         System.out.print("Choice:");
     }
 }
