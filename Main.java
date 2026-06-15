@@ -7,7 +7,7 @@ public class Main {
 
         MatchmakingSystem sys = new MatchmakingSystem();
 
-        int choice;             
+        int choice;
 
         do {
             Menu.show();
