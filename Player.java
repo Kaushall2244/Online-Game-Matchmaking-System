@@ -1,4 +1,3 @@
-
 public class Player {
 
     private int id;
@@ -31,7 +30,7 @@ public class Player {
 
     public void display() {
         System.out.println("ID: " + id);
-        System.out.println("Game Name: " + name);
+        System.out.println("Name: " + name);
         System.out.println("Game: " + game);
         System.out.println("Rank: " + rank);
     }

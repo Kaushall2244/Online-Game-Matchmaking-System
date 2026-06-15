@@ -18,7 +18,7 @@ public class Main {
                     System.out.print("ID: ");
                     int id = sc.nextInt();
                     sc.nextLine();
-                    System.out.print("Game Name: ");
+                    System.out.print("Name: ");
                     String name = sc.nextLine();
                     System.out.print("Game Name: ");
                     String game = sc.nextLine();
